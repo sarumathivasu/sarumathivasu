@@ -4,7 +4,7 @@
 ## 🌟 About Me
 
 I’m a **curious problem solver** who enjoys breaking things (in a good way 😄) to make sure they work perfectly.  
-With **1.6 years of experience** in testing Web3 applications, enterprise software, and decentralized platforms, I bring both **technical depth** and a **collaborative spirit** to every project.  
+**Experience** in testing Web3 applications, enterprise software, and decentralized platforms, I bring both **technical depth** and a **collaborative spirit** to every project.  
 
 I believe testing isn’t just about finding bugs — it’s about **building confidence in the product**, helping teams release faster, and ensuring smooth, secure user experiences.  
 
