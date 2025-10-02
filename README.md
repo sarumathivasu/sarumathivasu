@@ -21,19 +21,17 @@ Outside of code, I love **continuous learning**, mentoring, and exploring new te
 
 ## 🛠️ Skills  
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>
-  <a href="https://jmeter.apache.org/" target="_blank"><img src="https://jmeter.apache.org/images/jmeter.svg" alt="JMeter" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://owasp.org/www-project-zap/" target="_blank"><img src="https://owasp.org/assets/images/OWASP_ZAP_Logo.png" alt="OWASP ZAP" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.ethereum.org/" target="_blank"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3" width="40" height="40"/></a>
-  <a href="https://remix.ethereum.org/" target="_blank"><img src="https://remix.ethereum.org/assets/remix-logo-light.svg" alt="Remix" width="40" height="40"/></a>
-</p>
+- **Languages & Scripting:** Python, C, NodeJS  
+- **Automation:** Playwright  
+- **Testing Types:** Functional, Regression, Security, Integration, Database, Smoke, Sanity, Exploratory, UI, Performance  
+- **Performance Testing:** JMeter, BlazeMeter  
+- **API Testing:** Postman  
+- **Security:** OWASP ZAP  
+- **Cloud/DevOps:** Jenkins, GitHub Actions, CI/CD pipelines  
+- **Databases:** MongoDB, MySQL, SQL Workbench  
+- **Blockchain:** Web3, Smart Contracts, Tenderly, Remix  
+- **Collaboration & Tracking:** JIRA, Plane, Notion  
+- **Debugging:** Git, PM2 Logs, Chrome DevTools  
 
 ---
 
