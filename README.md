@@ -26,7 +26,8 @@ Outside of code, I love **continuous learning**, mentoring, and exploring new te
   </a>
 </p>
 
-📫 How to reach me: **[sarumathitvm02@gmail.com](mailto:sarumathitvm02@gmail.com)**
+📫 How to reach me: [sarumathitvm02@gmail.com](mailto:sarumathitvm02@gmail.com) | 📞 +91 9445116422
+
 
 ## 🛠️ Skills
 
